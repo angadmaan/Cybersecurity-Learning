@@ -6,7 +6,7 @@ It has **4 layers**.
 
 ## Layers of TCP/IP Model
 
-### 4 Application Layer
+### 4) Application Layer
 Responsible for communication between applications and the network.
 
 Examples:
@@ -20,7 +20,7 @@ Purpose: Provides services to user applications.
 
 ---
 
-### 3 Transport Layer
+### 3) Transport Layer
 Responsible for end-to-end communication and data delivery.
 
 Protocols:
@@ -31,7 +31,7 @@ Purpose: Ensures data is delivered correctly between devices.
 
 ---
 
-### 2 Internet Layer
+### 2) Internet Layer
 Responsible for logical addressing and routing of packets.
 
 Protocol:
@@ -41,7 +41,7 @@ Purpose: Determines how packets travel across networks.
 
 ---
 
-### 1 Network Access Layer
+### 1) Network Access Layer
 Responsible for transmitting data over the physical network.
 
 Examples:
