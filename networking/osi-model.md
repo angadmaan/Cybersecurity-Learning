@@ -55,7 +55,7 @@ The OSI model helps understand that how data travels across a network.
 - Multiplex  multiple connection over a single channel.
 
 ### Session Layer
-- Session layer provides mechanism for controlling the dialogue between the two end systems. It defines how to start, control and end conversations (called sessions) between applications.
+- Session layer provides mechanism for controlling the dialogue between the two end systems. It defines how to start, control and end conversations called sessions between applications.
 - This layer requests for a logical connection to be established on an end-user’s request.
 - Any necessary log-on or password validation is also handled by this layer.
 - Session layer is also responsible for terminating the connection.
