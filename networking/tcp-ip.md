@@ -68,6 +68,6 @@ TCP/IP was developed first; the protocols came first, and the model was created 
 In the OSI model, the Session and Presentation layers are separate. In the TCP/IP model, these functions are all part of the Application layer. This is why network engineers often mention "Layer 7" (Application) when discussing web traffic, even if they are actually on a TCP/IP network.  
 
 - Reliable vs. Best-Effort  
-The OSI model strictly uses connection-oriented methods at the network layer. In contrast, the TCP/IP model supports both connection-oriented (TCP) and "best-effort" connectionless (UDP) communication, making it more flexible for things like live video streaming.
+The OSI model strictly uses connection-oriented methods at the network layer. In contrast, the TCP/IP model supports both connection-oriented (TCP) and "best-effort" connectionless (UDP) communication, making it more flexible for things like live video streamings.
 
 
