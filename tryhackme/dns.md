@@ -28,7 +28,7 @@ When a user enters a domain name in the browser:
 
 ---
 
-## Common DNS Record Types
+## Common DNS Record Type
 
 ### A Record
 Maps a domain name to an IPv4 address
