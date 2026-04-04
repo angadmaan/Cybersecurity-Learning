@@ -5,9 +5,9 @@ Offensive security focuses on attacking systems to find vulnerabilities before m
 Professionals in this field simulate real-world attacks to identify weaknesses in networks, applications, and systems.
 
 Common roles:
-- Penetration Tester
+- Penetration Testers
 - Ethical Hackers
-- Red Team Analyst
+- Red Team Analysts
 
 Goal: To Discover and report security flaws so organizations can fix them.
 
