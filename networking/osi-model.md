@@ -11,7 +11,7 @@ The OSI model has 7 layers.
 - 1 (Physical)  
 
 ## Purpose
-The OSI model helps understand that how data travels across a network.
+The OSI model helps understand that how data travel across a network.
 
 ## OSI: A Layered Network Model
 
