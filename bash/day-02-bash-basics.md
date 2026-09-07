@@ -281,8 +281,6 @@ echo "Name: $first_name $last_name"
 
 This allows scripts to interact with users instead of relying entirely on hard-coded values.
 
----
-
 # 10. Command Substitution
 
 Command substitution allows the output of one command to be stored in a variable.
