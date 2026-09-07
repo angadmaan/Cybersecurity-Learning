@@ -43,42 +43,15 @@ By the end of this module, I aim to be able to:
 
 ```text
 Bash/
-│
 ├── README.md
 │
-├── day-01-linux-shell/
-│   ├── notes.md
-│   └── exercises.sh
-│
-├── day-02-bash-basics/
-│   ├── notes.md
-│   └── exercises.sh
-│
+├── day-01-linux-shell-fundamentals/
+├── day-02-bash-scripting-fundamentals/
 ├── day-03-control-flow/
-│   ├── notes.md
-│   └── exercises.sh
-│
-├── day-04-files-text/
-│   ├── notes.md
-│   └── exercises.sh
-│
-├── day-05-functions-arguments/
-│   ├── notes.md
-│   └── exercises.sh
-│
+├── day-04-files-and-text-processing/
+├── day-05-functions-and-arguments/
 ├── day-06-linux-automation/
-│   ├── notes.md
-│   └── scripts/
-│       ├── system_info.sh
-│       ├── disk_check.sh
-│       └── backup.sh
-│
-├── day-07-security-project/
-│   ├── notes.md
-│   └── scripts/
-│       ├── permission_audit.sh
-│       ├── failed_login_check.sh
-│       └── security_audit.sh
+├── day-07-security-automation/
 │
 └── projects/
     └── linux-security-audit/
