@@ -239,7 +239,6 @@ grep -v "INFO" logfile.txt
 
 This can be useful for filtering out unimportant log messages.
 
----
 
 # 7. `wc`
 
