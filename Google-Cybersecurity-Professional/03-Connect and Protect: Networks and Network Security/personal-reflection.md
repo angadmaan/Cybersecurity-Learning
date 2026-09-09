@@ -1,6 +1,3 @@
-## Author
+## Personal Reflection
 
-**Angad Singh Maan**
-
-- GitHub: https://github.com/angadmaan
-- LinkedIn: https://linkedin.com/in/angad-singh-maan
+Completing the **Connect and Protect: Networks and Network Security** course gave me a stronger understanding of how computer networks operate and how they can be protected from security threats. I learned important concepts such as network architecture, protocols, IP addressing, DNS, firewalls, encryption, network monitoring, and intrusion detection. The course helped me understand the relationship between networking and cybersecurity and why strong network knowledge is essential for a security analyst. I also gained a better understanding of common network attacks and defensive strategies such as segmentation and defense in depth. This course has strengthened my foundation and motivated me to explore advanced network security topics.
